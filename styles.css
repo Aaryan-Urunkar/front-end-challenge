@@ -16,10 +16,12 @@
 }
 .right-container{
     width:30%;
+    border-radius:15px;
     position:relative;
     left:50%;
     bottom:475px;
-    
+    box-shadow: 10px 10px 20px lightblue;
+    padding-bottom: 7%;
 }
 p{
     font-family: 'Hanken Grotesk', sans-serif;
