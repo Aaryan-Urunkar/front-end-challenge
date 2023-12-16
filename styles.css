@@ -4,6 +4,13 @@
     height:60px;
     width:300px;
     border-radius:10px;
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    height:40px;
+    width:40px;
+    padding-top:10px;
 }
 .left-container{
 
